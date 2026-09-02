@@ -217,7 +217,7 @@ The tests cover:
 Run the tests using:
 
 ```powershell
-python manage.py test
+python manage.py test ```
 
 ## GitHub Repository
 
