@@ -207,17 +207,17 @@ The API validates:
 
 ## Tests
 
-Tests can be run using:
+The project includes automated API tests in `mechanics/tests.py`.
+
+The tests cover:
+
+- Getting all mechanics
+- Getting a mechanic by ID
+
+Run the tests using:
 
 ```powershell
 python manage.py test
-```
-
-Test file:
-
-```text
-mechanics/tests.py
-```
 
 ## GitHub Repository
 
