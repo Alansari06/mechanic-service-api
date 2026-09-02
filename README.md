@@ -216,8 +216,10 @@ The tests cover:
 
 Run the tests using:
 
-``` powershell
+```powershell
 python manage.py test
+```
+
 
 ## GitHub Repository
 
